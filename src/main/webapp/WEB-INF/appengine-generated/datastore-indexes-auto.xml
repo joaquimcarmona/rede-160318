@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datastore-indexes>
+    <datastore-index kind="Str" ancestor="true" source="manual">
+        <property name="stretchNumber" direction="desc"/>
+    </datastore-index>
+  	 <datastore-index kind="Str" ancestor="true" source="manual">
+        <property name="stretchNumber" direction="asc"/>
+    </datastore-index>
+</datastore-indexes>

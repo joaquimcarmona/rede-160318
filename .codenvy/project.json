@@ -1,0 +1,1 @@
+{"mixinTypes":[],"runners":{"configs":{"project:/Copy of Google App Engine SDK 1.9.19  Java 7":{"ram":1000,"variables":{},"options":{}}},"default":"project:/Copy%20of%20Google%20App%20Engine%20SDK%201.9.19%20%20Java%207"},"builders":{"configs":{},"default":"maven"},"type":"GAEJava","attributes":{"languageVersion":["1.6"],"language":["java"]},"description":"Rede-160318"}
